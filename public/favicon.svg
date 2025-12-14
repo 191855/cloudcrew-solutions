@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 0 250 180">
+  <defs>
+    <linearGradient id="cloudGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4facfe;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00f2fe;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <g>
+    <path d="M 135 10 C 105 10 80 25 70 55 C 65 53 60 53 55 53 C 25 53 0 78 0 110 C 0 142 25 165 55 165 L 175 165 C 205 165 230 142 230 110 C 230 78 205 53 175 53 C 170 53 165 53 160 55 C 150 25 135 10 135 10 Z" 
+          fill="none" stroke="url(#cloudGradient)" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <g fill="url(#cloudGradient)">
+       <circle cx="60" cy="115" r="12" />
+       <path d="M 40 145 Q 60 120 80 145" fill="none" stroke="url(#cloudGradient)" stroke-width="20" stroke-linecap="round" />
+       
+       <circle cx="115" cy="95" r="16" />
+       <path d="M 85 145 Q 115 105 145 145" fill="none" stroke="url(#cloudGradient)" stroke-width="20" stroke-linecap="round" />
+
+       <circle cx="170" cy="115" r="12" />
+       <path d="M 150 145 Q 170 120 190 145" fill="none" stroke="url(#cloudGradient)" stroke-width="20" stroke-linecap="round" />
+    </g>
+  </g>
+</svg>
