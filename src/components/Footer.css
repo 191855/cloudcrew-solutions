@@ -1,0 +1,12 @@
+.site-footer {
+    background-color: transparent;
+    color: #a0a0a0;
+    text-align: center;
+    padding: 40px 20px;
+    margin-top: 50px;
+}
+
+.site-footer p {
+    margin: 0;
+    font-size: 0.9rem;
+}

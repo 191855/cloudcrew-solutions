@@ -1,0 +1,45 @@
+.the-cloudcrew-advantage-section {
+    padding: 30px 5%;
+    margin: 0 auto;
+    background-color: #1c1c1e;
+}
+
+.section-title {
+    font-size: 3rem;
+    font-weight: 700;
+    color: #4682B4;
+    text-align: center;
+    margin-bottom: 4rem;
+}
+
+.advantage-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+}
+
+.advantage-item {
+    padding: 35px;
+    background-color: #1c1c1e; /* Slightly lighter dark color */
+    border-radius: 20px;
+    text-align: left;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.advantage-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 20px 30px rgba(0, 0, 0, 0.07);
+}
+
+.advantage-item h3 {
+    color: #B8860B;
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.advantage-item p {
+    color: #a0a0a0; /* Light gray for content */
+    font-size: 1rem;
+    line-height: 1.6;
+}

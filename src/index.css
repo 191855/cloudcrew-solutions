@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+html {
+  scroll-behavior: smooth; /* Optional: adds smooth scrolling */
+  scroll-padding-top: 145px; /* Offset for the fixed header */
+}
+
+:root {
+  font-family: 'Inter', sans-serif;
+  line-height: 1.6;
+  font-weight: 400;
+  color-scheme: dark;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  width: 100%;
+  margin: 0 auto;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: #121212;
+  color: #ffffff;
+}
