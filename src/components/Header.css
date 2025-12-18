@@ -54,7 +54,7 @@
 
 @media (max-width: 768px) {
     .site-header {
-        padding: 1rem 5%;
+        padding: 0.5rem 5%;
         height: auto;
     }
     .main-nav {
@@ -62,7 +62,7 @@
     }
 
     .main-nav ul {
-        margin-top: 1.5rem;
+        margin-top: 0;
         justify-content: center;
     }
 
@@ -71,7 +71,7 @@
     }
 
     .company-logo {
-        width: 70px;
-        height: 70px;
+        width: 90px;
+        height: 90px;
     }
 }
