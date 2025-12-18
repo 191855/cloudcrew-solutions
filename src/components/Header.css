@@ -24,16 +24,15 @@
 }
 
 .company-logo {
-    color: #ffffff;
-    width: 100px;
-    height: 100px;
+    max-height: 120px;
+    width: 400px;
 }
 
 .company-name {
     color: #CCCCCC;
     font-size: 0.9rem;
     font-weight: 400;
-    margin-top: -35px;
+    margin-top: -20px;
     line-height: 1;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
@@ -44,6 +43,7 @@
     margin: 0;
     padding: 0;
     display: flex;
+    z-index: 1;
 }
 
 .main-nav ul li {
@@ -51,7 +51,7 @@
 }
 
 .main-nav ul li a {
-    color: #ffffff;
+    color: #CCCCCC;
     text-decoration: none;
     font-weight: 600;
     font-size: 0.95rem;
