@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
 
 html {
-  scroll-behavior: smooth; /* Optional: adds smooth scrolling */
-  scroll-padding-top: 145px; /* Offset for the fixed header */
+  scroll-behavior: smooth;
+  scroll-padding-top: 145px;
 }
 
 :root {

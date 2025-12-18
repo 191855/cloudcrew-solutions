@@ -1,6 +1,6 @@
 import React from 'react';
 import './Header.css';
-import logo from '/cloud-graphic.svg'; // Importing the new logo graphic
+import logo from '/cloud-graphic.svg';
 
 const Header = () => {
   return (
@@ -8,6 +8,7 @@ const Header = () => {
       <nav className="main-nav">
         <a href="#" className="logo">
           <img src={logo} alt="CloudCrew Solutions Logo" className="company-logo" />
+          <span className="company-name">CloudCrew Solutions</span>
         </a>
         <ul>
           <li><a href="#about">About Us</a></li>

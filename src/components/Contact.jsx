@@ -7,8 +7,8 @@ const Contact = () => {
       <h2 className="section-title">Contact Us</h2>
       <div className="contact-content">
         <div className="contact-info">
-          <p><strong>Address:</strong> 123 Consultancy Drive, Suite 100, Business City, BC 90210</p>
-          <p><strong>Phone:</strong> (555) 123-4567</p>
+          <p><strong>Address:</strong> 1925 Warrington Way, Cumming GA 30040</p>
+          <p><strong>Phone:</strong> +1(703) 462-4718</p>
           <p><strong>Email:</strong> info@cloudcrew-solutions.com</p>
           <p><strong>Hours:</strong> Mon-Fri: 9 AM - 5 PM</p>
         </div>

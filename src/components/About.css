@@ -30,7 +30,7 @@
     margin-bottom: 1.5rem;
 }
 
-/* Responsive Design */
+
 @media (max-width: 768px) {
     .about-content .text p {
         font-size: 1rem;

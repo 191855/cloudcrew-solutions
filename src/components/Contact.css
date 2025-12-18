@@ -89,7 +89,7 @@
     background: #9A6F09;
 }
 
-/* Responsive Design */
+
 @media (max-width: 768px) {
     .contact-content {
         flex-direction: column;

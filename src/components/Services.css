@@ -39,8 +39,8 @@
 }
 
 .service-item:hover h3 {
-    opacity: 1; /* Final state on hover */
-    transform: translateY(0); /* Final state on hover */
+    opacity: 1;
+    transform: translateY(0);
 }
 
 .service-item p {

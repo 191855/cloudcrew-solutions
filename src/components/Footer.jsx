@@ -4,7 +4,7 @@ import './Footer.css';
 const Footer = () => {
   return (
     <footer className="site-footer">
-      <p>&copy; 2025 CloudCrew Solutions. All rights reserved.</p>
+      <p>&copy; 2025 CloudCrew Solutions LLC. All rights reserved.</p>
     </footer>
   );
 };
